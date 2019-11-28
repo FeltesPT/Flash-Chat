@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003693872284",
+    "firebase_url": "https://flash-chat-cad52.firebaseio.com",
+    "project_id": "flash-chat-cad52",
+    "storage_bucket": "flash-chat-cad52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003693872284:android:e77190463525f276b24959",
+        "android_client_info": {
+          "package_name": "pt.feltes.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003693872284-ofbem7n1bmp66sp6e4f35r2n12au4sb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGywNzTEurHXgobCROElCjlASoAXQvBc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003693872284-ofbem7n1bmp66sp6e4f35r2n12au4sb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
